@@ -25,3 +25,6 @@ fm - icon : mấy file khác định dạng phổ biến em để cùng 1 icon �
 fm - tree view : nếu nó là folder con út rùi thì cho mất cái mũi tên này đi
 ![[Pasted image 20240604142310.png]]
 fm - theme : dark mode https://js.devexpress.com/Vue/Documentation/Guide/Themes_and_Styles/Predefined_Themes/#Switch_Between_Themes_at_Runtime/Without_Page_Reload
+
+## onCellClick
+https://js.devexpress.com/Vue/Documentation/ApiReference/UI_Components/dxDataGrid/Configuration/#onCellClick
