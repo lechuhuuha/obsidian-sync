@@ -23,9 +23,11 @@
             "id": "39f406f733fc1b32",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "panel/login logout.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server tools.md",
+                "file": "panel/login logout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server tools.md",
+                "file": "panel/login logout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server tools.md"
+                "file": "panel/login logout.md"
               }
             }
           }
@@ -159,6 +161,22 @@
   },
   "active": "39f406f733fc1b32",
   "lastOpenFiles": [
+    "panel/Menu.md",
+    "panel/login logout.md",
+    "panel/Done task.md",
+    "server tools/fm.md",
+    "server tools/Done.md",
+    "server tools",
+    "panel/Notifications.md",
+    "panel",
+    "bandicam 2024-06-06 11-06-01-246.mp4",
+    "Pasted image 20240610153756.png",
+    "Pasted image 20240607083436.png",
+    "Pasted image 20240607083321.png",
+    "Pasted image 20240607083133.png",
+    "Pasted image 20240607083033.png",
+    "Pasted image 20240606111353.png",
+    "Pasted image 20240606111041.png",
     "Pasted image 20240604142310.png",
     "20240604-0433-14.8047412.mp4",
     "Server tools.md",
