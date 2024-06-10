@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39f406f733fc1b32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "866e302120329362",
+  "active": "39f406f733fc1b32",
   "lastOpenFiles": [
-    "pay/Untitled.md",
-    "Server tools.md",
-    "pay",
     "Pasted image 20240604142310.png",
-    "20240604-0433-14.8047412.mp4"
+    "20240604-0433-14.8047412.mp4",
+    "Server tools.md",
+    "pay/Untitled.md",
+    "pay"
   ]
 }
