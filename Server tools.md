@@ -28,3 +28,22 @@ fm - theme : dark mode https://js.devexpress.com/Vue/Documentation/Guide/Themes_
 
 ## onCellClick
 https://js.devexpress.com/Vue/Documentation/ApiReference/UI_Components/dxDataGrid/Configuration/#onCellClick
+
+
+**fm - file .ts hem thấy có icon**
+![[Pasted image 20240606111041.png]]
+
+**fm : bấm vào ko hiện nút checked nữa a nhỉ**
+
+**muốn thì bấm nút checked** 
+
+**ko tự động bấm**
+
+![[bandicam 2024-06-06 11-06-01-246.mp4]]
+
+
+
+
+**fm- tìm cách keep connection cho phiên của user** 
+
+**fm - ko refresh với các action cancel, save thì lưu**

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server tools.md",
+                "file": "panel/Done task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b49abebf21faf0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server tools/Done.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server tools.md",
+                "file": "server tools/Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server tools.md",
+                "file": "server tools/Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server tools.md"
+                "file": "server tools/Done.md"
               }
             }
           }
@@ -146,10 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "866e302120329362",
+  "active": "2b49abebf21faf0e",
   "lastOpenFiles": [
-    "pay/Untitled.md",
+    "server tools/fm.md",
+    "server tools/Done.md",
     "Server tools.md",
+    "panel/Done task.md",
+    "server tools",
+    "panel/Menu.md",
+    "panel/Notifications.md",
+    "Pasted image 20240607083436.png",
+    "Pasted image 20240607083321.png",
+    "Pasted image 20240607083133.png",
+    "Pasted image 20240607083033.png",
+    "panel",
+    "Pasted image 20240606111353.png",
+    "bandicam 2024-06-06 11-06-01-246.mp4",
+    "Pasted image 20240606111041.png",
+    "pay/Untitled.md",
     "pay",
     "Pasted image 20240604142310.png",
     "20240604-0433-14.8047412.mp4"
