@@ -22,3 +22,4 @@
 5. Remove kong
 	1. `kong stop`
 	2. `sudo yum remove kong`
+6.  https://stackoverflow.com/a/68173977/14820892
