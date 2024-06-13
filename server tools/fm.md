@@ -6,3 +6,10 @@
 
 
 thay thế unzipper @lechuhuuha/unzipper thành unzipper bản mới nhất
+
+
+cần để server nào đang được chọn trong dropdown
+
+![[Pasted image 20240613120518.png]]
+
+# Cần thêm migration cho server tools
