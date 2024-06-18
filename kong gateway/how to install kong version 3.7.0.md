@@ -23,7 +23,6 @@
 	1. `kong stop`
 	2. `sudo yum remove kong`
 6.  https://stackoverflow.com/a/68173977/14820892
-7. docker run -p 1337:1337 --network "0.0.0.0:8001" --name konga -e "NODE_ENV=production" -e "TOKEN_SECRET=f810bcf0275454327456bb5e75cd72eae679b25db0066562ae877dbe15543fae" pantsel/konga
 
 
 
