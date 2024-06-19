@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "866e302120329362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "panel/Done task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2b49abebf21faf0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kong gateway/SSL forward kong.md",
+                "file": "kong gateway/Install kong oss in docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7175dc29e85f6f04",
+            "id": "33e40ecbdd1d2c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kong gateway/how to install kong version 3.7.0.md",
+                "file": "kong gateway/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kong gateway/SSL forward kong.md",
+                "file": "kong gateway/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kong gateway/SSL forward kong.md",
+                "file": "kong gateway/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kong gateway/SSL forward kong.md"
+                "file": "kong gateway/Untitled.md"
               }
             }
           }
@@ -171,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b49abebf21faf0e",
+  "active": "f7856b2481fec61d",
   "lastOpenFiles": [
-    "kong gateway/SSL loader.md",
     "kong gateway/Install kong oss in docker.md",
     "kong gateway/SSL forward kong.md",
     "kong gateway/how to install kong version 3.7.0.md",
-    "panel/login logout.md",
+    "kong gateway/SSL loader.md",
     "panel/Done task.md",
+    "kong gateway/Untitled.md",
+    "panel/login logout.md",
     "server tools/Done.md",
     "server tools/fm.md",
     "20240604-0433-14.8047412.mp4",
