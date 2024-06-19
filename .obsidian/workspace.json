@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md",
+                "file": "kong gateway/how to install kong version 3.7.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md",
+                "file": "kong gateway/how to install kong version 3.7.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md",
+                "file": "kong gateway/how to install kong version 3.7.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md"
+                "file": "kong gateway/how to install kong version 3.7.0.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "7175dc29e85f6f04",
   "lastOpenFiles": [
-    "kong gateway/how to install kong version 3.7.0.md",
     "kong gateway/Install kong oss in docker.md",
-    "kong gateway/SSL loader.md",
     "kong gateway/SSL forward kong.md",
+    "kong gateway/SSL loader.md",
+    "kong gateway/how to install kong version 3.7.0.md",
     "server tools/Done.md",
     "server tools/fm.md",
     "20240604-0433-14.8047412.mp4",
