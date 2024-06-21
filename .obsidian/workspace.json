@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kong gateway/Untitled.md",
+                "file": "server tools/Done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "252b067117feabb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md",
+                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md",
+                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kong gateway/Install kong oss in docker.md"
+                "file": "Agent.md"
               }
             }
           }
@@ -159,16 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7856b2481fec61d",
+  "active": "252b067117feabb7",
   "lastOpenFiles": [
-    "kong gateway/Install kong oss in docker.md",
+    "server tools/Done.md",
+    "Agent.md",
+    "digital ocean",
     "kong gateway/SSL forward kong.md",
-    "kong gateway/how to install kong version 3.7.0.md",
     "kong gateway/SSL loader.md",
+    "kong gateway/Install kong oss in docker.md",
+    "kong gateway/how to install kong version 3.7.0.md",
     "panel/Done task.md",
     "kong gateway/Untitled.md",
     "panel/login logout.md",
-    "server tools/Done.md",
     "server tools/fm.md",
     "20240604-0433-14.8047412.mp4",
     "Server tools.md",
