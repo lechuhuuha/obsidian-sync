@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6b5f9b5c285ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50c6f69b4846ccb0",
+  "active": "f6b5f9b5c285ff9d",
   "lastOpenFiles": [
     "Pasted image 20240626121230.png",
     "kong gateway/Install kong oss in docker.md",
