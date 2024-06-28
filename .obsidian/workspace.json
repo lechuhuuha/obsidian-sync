@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "968bccccb4293c96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebac9c748bfc54f2",
+  "active": "968bccccb4293c96",
   "lastOpenFiles": [
     "kong gateway/Install kong oss in docker.md",
     "digital ocean/One shield agent.md",
