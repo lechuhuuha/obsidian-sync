@@ -20,17 +20,18 @@
             }
           },
           {
-            "id": "968bccccb4293c96",
+            "id": "2820b65bac7d5954",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "User login feature.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,10 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "968bccccb4293c96",
+  "active": "8a0abd152df8ad30",
   "lastOpenFiles": [
-    "kong gateway/Install kong oss in docker.md",
+    "oneshield/control plane",
+    "oneshield/agent",
+    "oneshield",
+    "User login feature.md",
     "digital ocean/One shield agent.md",
+    "kong gateway/Install kong oss in docker.md",
     "digital ocean",
     "Pasted image 20240626121230.png",
     "Agent.md",
