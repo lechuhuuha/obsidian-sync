@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4acb8bcbfcbbfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oneshield/Các note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "digital ocean/One shield agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "digital ocean/One shield agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneshield/Các note.md"
+                "file": "digital ocean/One shield agent.md"
               }
             }
           }
@@ -159,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a0abd152df8ad30",
+  "active": "ebac9c748bfc54f2",
   "lastOpenFiles": [
-    "digital ocean/One shield agent.md",
     "oneshield/Các note.md",
-    "Untitled",
+    "oneshield",
     "User login feature.md",
     "kong gateway/Install kong oss in docker.md",
+    "digital ocean/One shield agent.md",
     "digital ocean",
     "Pasted image 20240626121230.png",
     "Agent.md",
