@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "panel/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital ocean/One shield agent.md",
+                "file": "panel/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digital ocean/One shield agent.md",
+                "file": "panel/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital ocean/One shield agent.md"
+                "file": "panel/Git.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a0abd152df8ad30",
+  "active": "f4acb8bcbfcbbfbc",
   "lastOpenFiles": [
     "digital ocean/One shield agent.md",
+    "panel/Git.md",
     "oneshield/Các note.md",
     "Untitled",
     "User login feature.md",
