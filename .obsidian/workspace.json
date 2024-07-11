@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "b1e62d430a8996bf",
+    "id": "f9f7d5127cc1f280",
     "type": "split",
     "children": [
       {
-        "id": "63cb04b2a84a4ee2",
+        "id": "1b5bcaedecde0852",
         "type": "tabs",
         "children": [
           {
-            "id": "ebac9c748bfc54f2",
+            "id": "7a29d4f690d05f7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital ocean/One shield agent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4acb8bcbfcbbfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "panel/Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c6918620db21a3fa",
+    "id": "ca617f8fe3b98a5b",
     "type": "split",
     "children": [
       {
-        "id": "a348293f488fad4a",
+        "id": "72f49f66bb9325b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0abd152df8ad30",
+            "id": "91b5ed3ce764ac1b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "6fa8a8e90e057828",
+            "id": "f8d7b876ad49dc60",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "debd5a40b4aedf0f",
+            "id": "efe31b93fb330b20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "354ba3da9f3a1cc2",
+    "id": "5a9b3a96a2b59662",
     "type": "split",
     "children": [
       {
-        "id": "8bed82c0da4e64a2",
+        "id": "7df096fa97cb964b",
         "type": "tabs",
         "children": [
           {
-            "id": "b9274a1b117ef22c",
+            "id": "bd31a604c4706f65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panel/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "30c26097bbea1179",
+            "id": "0bbb55a7d422e314",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "panel/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9c0d35dfad89c365",
+            "id": "4a72f5f83752d6ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "e5d3f91a7f055dd6",
+            "id": "c01c7380da2b8f83",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "panel/Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,20 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4acb8bcbfcbbfbc",
-  "lastOpenFiles": [
-    "digital ocean/One shield agent.md",
-    "panel/Git.md",
-    "oneshield/Các note.md",
-    "Untitled",
-    "User login feature.md",
-    "kong gateway/Install kong oss in docker.md",
-    "digital ocean",
-    "Pasted image 20240626121230.png",
-    "Agent.md",
-    "kong gateway/SSL forward kong.md",
-    "kong gateway/SSL loader.md",
-    "kong gateway/Untitled.md",
-    "kong gateway/how to install kong version 3.7.0.md"
-  ]
+  "active": "7a29d4f690d05f7c",
+  "lastOpenFiles": []
 }
