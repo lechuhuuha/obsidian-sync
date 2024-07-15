@@ -6,3 +6,6 @@ xem lại struct field (sai so với api hiện tại)
 
 
 - thêm 1 function riêng cho bên pfsense pkg để test connection
+func cuối trước khi return cho gob thì return sperrors
+
+còn lại log vào file
