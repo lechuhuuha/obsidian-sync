@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "server tools/fm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "server tools/fm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "server tools/fm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneshield/Các note.md"
+                "file": "server tools/fm.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "7a29d4f690d05f7c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "oneshield/Các note.md"
+  ]
 }
