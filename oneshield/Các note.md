@@ -9,3 +9,11 @@ xem lại struct field (sai so với api hiện tại)
 func cuối trước khi return cho gob thì return sperrors
 
 còn lại log vào file
+
+
+struct trong service ko cần json khi ko cần marshall
+
+dùng utils.Map để map DTO
+
+sửa lại hàm replyerror để check nếu error đã wrap sperrors rồi thì trả về luôn
+ko thì lấy ra error rồi wrap lại bằng sperrors
