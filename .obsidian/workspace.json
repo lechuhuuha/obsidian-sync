@@ -23,9 +23,11 @@
             "id": "1f1bb11836c91a0e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "mẹo lái xe/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "mẹo lái xe/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneshield/Các note.md",
+                "file": "mẹo lái xe/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneshield/Các note.md"
+                "file": "mẹo lái xe/Untitled.md"
               }
             }
           }
@@ -159,6 +161,9 @@
   },
   "active": "1f1bb11836c91a0e",
   "lastOpenFiles": [
+    "Pasted image 20240722164146.png",
+    "mẹo lái xe/Untitled.md",
+    "mẹo lái xe",
     "server tools/fm.md",
     "oneshield/Các note.md"
   ]
