@@ -25,7 +25,13 @@
             "state": {
               "type": "release-notes",
               "state": {
+<<<<<<< HEAD
                 "currentVersion": "1.6.7"
+=======
+                "file": "oneshield/Các note.md",
+                "mode": "source",
+                "source": false
+>>>>>>> 2f9aab0052cd8d33e202495d79c704e1ae63370d
               }
             }
           }
@@ -160,6 +166,7 @@
   "active": "536e98abede450b3",
   "lastOpenFiles": [
     "mẹo lái xe/Untitled.md",
+    "Pasted image 20240722164146.png",
     "mẹo lái xe",
     "Pasted image 20240722164146.png",
     "server tools/fm.md",

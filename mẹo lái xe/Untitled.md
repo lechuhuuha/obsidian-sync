@@ -27,3 +27,5 @@ trắng - cùng đường , đứt - đè đường, vàng - tim đường
 
 cấu tạo xe :
 hộp số đi lùi
+
+phương tiện cơ giới phải bao gồm cả xe máy điện
