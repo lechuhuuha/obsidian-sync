@@ -31,6 +31,7 @@ composer i
 python3 tools/make_package.py --branch master --tag v2.0.3
 
 cp -r vendor/* pfSense-pkg-RESTAPI/files/usr/local/pkg/RESTAPI/.resources/includes
+
 rm -rf pfSense-pkg-RESTAPI/files/usr/local/pkg/RESTAPI/.resources/includes/composer && rm pfSense-pkg-RESTAPI/files/usr/local/pkg/RESTAPI/.resources/includes/autoload.php
 
 
