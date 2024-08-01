@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oneshield/Untitled.md",
+                "file": "oneshield/Các note.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneshield/Untitled.md",
+                "file": "oneshield/Các note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneshield/Untitled.md",
+                "file": "oneshield/Các note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneshield/Untitled.md"
+                "file": "oneshield/Các note.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "7a29d4f690d05f7c",
   "lastOpenFiles": [
-    "oneshield/Các note.md",
     "oneshield/Untitled.md",
+    "oneshield/Các note.md",
+    "pay/Untitled.md",
+    "oneshield/agent/HA proxy backend.md",
     "digital ocean/One shield agent.md",
     "mẹo lái xe/Untitled.md",
     "Pasted image 20240722164146.png",
