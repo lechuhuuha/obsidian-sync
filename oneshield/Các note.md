@@ -23,6 +23,7 @@ rm -rf pfsense-api/
 git clone https://github.com/lechuhuuha/pfsense-api.git
 cd pfsense-api/
 
+pkg-static delete pfSense-pkg-RESTAPI
 
 pfsense-restapi delete
 
